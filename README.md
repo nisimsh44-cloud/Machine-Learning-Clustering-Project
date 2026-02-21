@@ -22,7 +22,7 @@ The study followed a rigorous Grid Search approach across the following algorith
 3. **DBSCAN (Density-based):** **Chosen as the optimal model.** Through iterative fine-tuning ($eps=0.23, min\_samples=10$), this algorithm successfully identified all 6-7 distinct clusters, regardless of their geometric complexity.
 
 ## 📊 Visual Results
-![Cluster Separation Analysis](Final_Optimized_DBSCAN.png)
+![Cluster Separation Analysis](Final_Optimized_DBSCAN.jpeg)
 *Figure 1: Final DBSCAN clustering results, successfully isolating non-linear structures and identifying distinct density-based clusters.*
 
 ## 📈 Key Findings
