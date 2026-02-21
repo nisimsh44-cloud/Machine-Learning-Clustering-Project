@@ -1,7 +1,7 @@
 # Machine-Learning-Clustering-Project
 
 # Unsupervised Learning: Comparative Clustering Analysis
-**Author:** Dmitri Antonov  
+**Author:** Dmitri Antonov & Nisim Sharabi  
 **Course:** Introduction to Machine Learning  
 
 ---
